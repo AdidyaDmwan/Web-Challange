@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       colors: {
-       'primary': '#ffbe98',
-       'primary-dark': '#a52a2a',
+      //  'primary': '#ffbe98',
+      //  'primary-dark': '#a52a2a',
       },
       backgroundImage: {
         'hero-pattern': "url('./img/bg.jpg')",
@@ -19,7 +19,7 @@ export default {
         'Abril' : ["Abril Fatface","serif"],
         'Montserrat': ["Montserrat","sans-serif"],
         'Cormorant':["Cormorant Garamond","serif"]
-      }
+      },
     },
   },
 
