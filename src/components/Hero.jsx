@@ -3,7 +3,7 @@ function Hero() {
     <>
       {/* hero */}
       <div id="home" className="relative">
-        <div className="bg-[url('./img/bg.jpg')] h-screen md:h-[1000px] bg-no-repeat bg-center bg-cover flex justify-center items-center flex-col">
+        <div className="bg-[url('https://cdn.pixabay.com/photo/2017/11/08/22/18/spaghetti-2931846_1280.jpg')] h-screen md:h-[1000px] bg-no-repeat bg-center bg-cover flex justify-center items-center flex-col">
           <div className="text-white text-center">
             <h1 className="text-4xl md:text-7xl font-bold font-sacramento animate-pulse">Premium</h1>
             <h4 className="text-slate-200 font-bold font-Montserrat text-xs mb-7 animate-pulse">QUALITY</h4>
